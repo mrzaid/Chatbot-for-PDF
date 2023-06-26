@@ -24,8 +24,8 @@ Before starting, make sure you have Python 3.8+ installed. To run the Q&A Chatbo
 1. Clone this repository:
 
    ```
-   git clone https://github.com/hyder110/langchain-custom-pdf-chatbot.git
-   cd repo-name
+   git clone https://github.com/mrzaid/Chatbot-for-PDF.git
+   cd Chatbot-for-PDF
    ```
 
 2. Install the necessary libraries:
@@ -66,7 +66,7 @@ After obtaining your OpenAI API key, create a `.env` file in the root of your pr
 
 ## Architecture
 
-![Architecture Diagram](chatbot2.svg)
+![Architecture Diagram](Architecture.png)
 
 The chatbot works in several steps:
 
