@@ -1,14 +1,12 @@
 # Q&A Chatbot for PDF Documents
 
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*Iy9LzhTAPht6ghwU.png" width="300">
-</p>
+![Chatbot](https://miro.medium.com/v2/resize:fit:1400/0*Iy9LzhTAPht6ghwU.png)
 
-This repository contains a Streamlit application that utilizes the power of LangChain and OpenAI's language model to provide a conversational Q&A chatbot. Users can upload a PDF document, and the chatbot will answer questions about the document's content.
+This repository contains a Streamlit application that utilizes the LangChain and OpenAI's language model to create a conversational Q&A chatbot. The chatbot is designed to answer questions about the content of PDF documents.
 
 ## Table of Contents
 
-- [Q\&A Chatbot for PDF Documents](#qa-chatbot-for-pdf-documents)
+- [Q&A Chatbot for PDF Documents](#qa-chatbot-for-pdf-documents)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -107,4 +105,4 @@ For more information, feel free to reach out!
 - Muhammad Zaid Ahmed
 - Email: m.zaidahmed861@gmail.com
 - Twitter: https://twitter.com/mrzaid
-- LinkedIn:https://www.linkedin.com/in/muhammad-zaid-ahmed/
+- [Linkedin](https://www.linkedin.com/in/muhammadzaidahmed/)
